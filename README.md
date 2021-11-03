@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 
 📈 My Github Stats :
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ArshSharma2002&show_icons=true&&count_private=true&include_all_commits=true&theme=radical" />   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshSharma2002&layout=compact&theme=radical" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ArshSharma2002&show_icons=true&&count_private=true&include_all_commits=true&theme=radical" />   
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshSharma2002&layout=compact&theme=radical" />
