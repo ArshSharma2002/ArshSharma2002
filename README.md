@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 📈 My Github Stats :
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ArshSharma2002&show_icons=true&&count_private=true&include_all_commits=true&theme=great-gatsby" />   
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ArshSharma2002&show_icons=true&&count_private=true&include_all_commits=true&theme=nightowl" />   
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshSharma2002&layout=compact&theme=great-gatsby" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshSharma2002&layout=compact&theme=nightowl" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArshSharma2002&theme=great-gatsby)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArshSharma2002&theme=nightowl)](https://git.io/streak-stats)
 
