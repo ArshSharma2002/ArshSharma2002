@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 🙍 About Me
 
-- 🔭 I'm an undergraduate CSE student and a full stack web developer .
+- 🔭 I'm an undergraduate CSE student and a MERN stack web developer .
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : <a href="https://www.instagram.com/its_arsh_sharma/">![alt text](https://img.shields.io/badge/-Instagram-pink?style=plastic&logo=Instagram)</a>  <a href="https://www.linkedin.com/in/arsh-sharma-6747a6211/"> ![alt text](https://img.shields.io/badge/-LinkedIn-skyblue?style=plastic&logo=linkedIn)</a>
