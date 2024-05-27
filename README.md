@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 -->
 🙍 About Me
 
+- 😄 Pronouns: he/his/him
 - 🔭 I'm an undergraduate CSE student and a MERN stack developer.
 - 🌱 I’m currently exploring AWS.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me :  <a href="https://www.instagram.com/its_arsh_sharma/">![alt text](https://img.shields.io/badge/-Instagram-pink?style=plastic&logo=Instagram)</a>  <a href="https://www.twitter.com/Arsh_7790"> ![alt text](https://img.shields.io/badge/-Twitter-white?style=plastic&logo=twitter)</a>  <a href="https://www.linkedin.com/in/arsh-sharma-6747a6211/"> ![alt text](https://img.shields.io/badge/-LinkedIn-skyblue?style=plastic&logo=linkedIn)</a> 
 
 
-- 😄 Pronouns: he/his/him
 - My Portfolio: https://arshsharma.netlify.app/
 
 <hr>
